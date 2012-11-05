@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4301
+
+Vim syntax highlighting for mon.cf
+
+"mon" is Service Monitoring Daemon.
+https://mon.wiki.kernel.org/index.php/Main_Page
